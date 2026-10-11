@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Secrets never go into the repository
+.env
+.env.*
+# Reports you generate yourself (the example in examples/ is kept)
+/sales_report.xlsx
+~$*.xlsx

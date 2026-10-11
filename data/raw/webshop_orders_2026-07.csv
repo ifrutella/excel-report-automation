@@ -1,0 +1,150 @@
+order_id,date,customer_city,product,quantity,unit_price,channel
+HL-10023,2026-07-15,Oslo,House Espresso 1kg,14,429.00,Wholesale
+HL-10037,2026-07-05,Bergen,Decaf Brazil 250g,11,139.00,Wholesale
+HL-10128,2026-07-08,Bergen,filter papers (100),2,59.00,Webshop
+HL-10089,2026-07-01,Oslo,Colombia Huila 250g,1,149.00,Webshop
+HL-10085,2026-07-29,Trondheim,Ethiopia Yirgacheffe 250g,1,169.00,Webshop
+HL-10117,2026-07-18,Bergen,  Ethiopia Yirgacheffe 250g,1,169.00,Webshop
+HL-10087,2026-07-31,Drammen,House espresso 1 kg,21,429.00,Wholesale
+HL-10121,2026-07-27,Tromsø,Ethiopia Yirgacheffe 250g,2,169.00,Webshop
+HL-10065,2026-07-04,Oslo,Filter Papers (100),3,59.00,Webshop
+HL-10066,2026-07-01,Drammen,  Ethiopia Yirgacheffe 250g,15,169.00,Wholesale
+HL-10120,2026-07-16,Oslo,Kenya Nyeri 250g,3,179.00,Webshop
+HL-10047,2026-07-11,Drammen,Colombia  Huila 250g,3,149.00,Café
+HL-10100,2026-07-13,Bergen,Kenya Nyeri 250g,3,179.00,Café
+HL-10057,2026-07-18,Stavanger,Colombia  Huila 250g,3,149.00,Webshop
+HL-10096,2026-07-08,Oslo,House Espresso 1kg,3,429.00,Webshop
+HL-10113,2026-07-03,Bergen,House Espresso 1kg,17,429.00,Wholesale
+HL-10056,2026-07-02,Oslo,  Ethiopia Yirgacheffe 250g,1,169.00,Café
+HL-10001,2026-07-21,Oslo,Kenya Nyeri 250g,22,179.00,Wholesale
+HL-10126,2026-07-06,Oslo,House Espresso 1kg,2,429.00,Webshop
+HL-10052,2026-07-06,Oslo,Ethiopia Yirgacheffe 250g,2,169.00,Webshop
+HL-10138,2026-07-17,Oslo,Colombia Huila 250g,3,149.00,Webshop
+HL-10112,2026-07-01,Bergen,Filter Papers (100),2,59.00,Webshop
+HL-10044,2026-07-15,Tromsø,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10113,2026-07-03,Bergen,House Espresso 1kg,17,429.00,Wholesale
+HL-10131,2026-07-20,Bergen,Kenya Nyeri 250g,3,179.00,Café
+HL-10098,2026-07-11,Oslo,Kenya Nyeri 250g,2,179.00,Café
+HL-10054,2026-07-19,Oslo,Decaf Brazil 250g,2,139.00,Webshop
+HL-10015,2026-07-23,Tromsø,House espresso 1 kg,3,429.00,Webshop
+HL-10017,2026-07-23,Tromsø,Filter Papers (100),22,59.00,Wholesale
+HL-10035,2026-07-10,Tromsø,  Ethiopia Yirgacheffe 250g,3,169.00,Webshop
+HL-10024,2026-07-21,Trondheim,House Espresso 1kg,1,429.00,Café
+HL-10115,2026-07-22,Oslo,Colombia Huila 250g,3,149.00,Webshop
+HL-10077,2026-07-19,Trondheim,Filter Papers (100),3,59.00,Café
+HL-10048,2026-07-12,Oslo,Decaf Brazil 250g,1,139.00,Webshop
+HL-10002,2026-07-14,Tromsø,Colombia Huila 250g,23,149.00,Wholesale
+HL-10034,2026-07-21,Stavanger,House Espresso 1kg,2,429.00,Webshop
+HL-10064,2026-07-18,Oslo,Decaf Brazil 250g,1,139.00,Webshop
+HL-10025,2026-07-28,Drammen,House Espresso 1kg,3,429.00,Webshop
+HL-10080,2026-07-24,Trondheim,filter papers (100),3,59.00,Webshop
+HL-10063,2026-07-19,Oslo,Kenya Nyeri 250g,2,179.00,Café
+HL-10099,2026-07-30,Stavanger,Colombia Huila 250g,3,149.00,Webshop
+HL-10143,2026-07-07,Trondheim,Filter Papers (100),3,59.00,Webshop
+HL-10101,2026-07-14,Trondheim,Colombia Huila 250g,10,149.00,Wholesale
+HL-10124,2026-07-25,Trondheim,Filter Papers (100),23,59.00,Wholesale
+HL-10075,2026-07-27,Trondheim,Filter Papers (100),3,59.00,Webshop
+HL-10039,2026-07-07,Oslo,Decaf Brazil 250g,1,139.00,Café
+HL-10055,2026-07-09,Trondheim,Kenya Nyeri 250g,1,179.00,Webshop
+HL-10032,2026-07-26,Oslo,Decaf Brazil 250g,2,139.00,Café
+HL-10071,2026-07-31,Oslo,Kenya Nyeri 250g,1,179.00,Webshop
+HL-10027,2026-07-20,Bergen,Decaf Brazil 250g,8,139.00,Wholesale
+HL-10107,2026-07-07,Drammen,Filter Papers (100),22,59.00,Wholesale
+HL-10114,2026-07-05,Stavanger,Decaf Brazil 250g,1,139.00,Webshop
+HL-10055,2026-07-09,Trondheim,Kenya Nyeri 250g,1,179.00,Webshop
+HL-10026,2026-07-01,Tromsø,Colombia Huila 250g,1,149.00,Webshop
+HL-10061,2026-07-23,Drammen,House Espresso 1kg ,3,429.00,Webshop
+HL-10106,2026-07-04,Tromsø,House Espresso 1kg ,2,429.00,Café
+HL-10030,2026-07-29,Trondheim,Decaf Brazil 250g,3,139.00,Webshop
+HL-10092,2026-07-28,Oslo,colombia huila 250 g,1,149.00,Café
+HL-10135,2026-07-21,Tromsø,filter papers (100),2,59.00,Webshop
+HL-10021,2026-07-18,Oslo,House Espresso 1kg,,429.00,Café
+HL-10093,2026-07-16,Tromsø,House Espresso 1kg ,2,429.00,Webshop
+HL-10031,2026-07-26,Trondheim,Ethiopia Yirgacheffe 250g,1,169.00,Webshop
+HL-10084,2026-07-09,Trondheim,  Ethiopia Yirgacheffe 250g,3,169.00,Webshop
+HL-10040,2026-07-28,Bergen,Ethiopia Yirgacheffe 250g,2,169.00,Webshop
+HL-10081,2026-07-18,Bergen,Colombia Huila 250g,1,149.00,Webshop
+HL-10043,2026-07-10,Oslo,House Espresso 1kg ,2,429.00,Webshop
+HL-10016,2026-07-18,Drammen,Filter Papers (100),14,59.00,Wholesale
+HL-10067,2026-07-14,Drammen,Decaf Brazil 250g,2,139.00,Webshop
+HL-10010,2026-07-28,Oslo,Decaf Brazil 250g,21,139.00,Wholesale
+HL-10095,2026-07-03,Oslo,Decaf Brazil 250g,1,139.00,Webshop
+HL-10119,2026-07-16,Stavanger,Decaf Brazil 250g,2,139.00,Café
+HL-10024,2026-07-21,Trondheim,House Espresso 1kg,1,429.00,Café
+HL-10140,2026-07-17,Bergen,Kenya Nyeri 250g,1,179.00,Webshop
+HL-10022,2026-07-30,Oslo,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10012,2026-07-17,Oslo,House Espresso 1kg,3,429.00,Café
+HL-10051,2026-07-09,Oslo,Decaf Brazil 250g,3,139.00,Webshop
+HL-10116,2026-07-23,Oslo,Filter Papers (100),19,59.00,Wholesale
+HL-10004,2026-07-27,Tromsø,ethiopia yirgacheffe 250 g,1,169.00,Café
+HL-10018,2026-07-01,Oslo,House Espresso 1kg,2,429.00,Webshop
+HL-10041,2026-07-21,Bergen,House Espresso 1kg,,429.00,Webshop
+HL-10020,2026-07-23,Tromsø,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10136,2026-07-08,Stavanger,Decaf Brazil 250g,2,139.00,Webshop
+HL-10105,2026-07-15,Drammen,Kenya Nyeri 250g,3,179.00,Webshop
+HL-10062,2026-07-31,Oslo,  Ethiopia Yirgacheffe 250g,3,169.00,Webshop
+HL-10079,2026-07-26,Oslo,Kenya Nyeri 250g,19,179.00,Wholesale
+HL-10122,2026-07-10,Bergen,Colombia Huila 250g,18,149.00,Wholesale
+HL-10139,2026-07-28,Trondheim,House espresso 1 kg,3,429.00,Webshop
+HL-10083,2026-07-31,Oslo,House Espresso 1kg,11,429.00,Wholesale
+HL-10050,2026-07-25,Bergen,Ethiopia Yirgacheffe 250g,3,169.00,Webshop
+HL-10014,2026-07-20,Drammen,Filter Papers (100),3,59.00,Webshop
+HL-10073,2026-07-08,Tromsø,Ethiopia Yirgacheffe 250g,3,169.00,Webshop
+HL-10058,2026-07-21,Oslo,Kenya Nyeri 250g,3,179.00,Café
+HL-10104,2026-07-25,Oslo,Colombia Huila 250g,3,149.00,Webshop
+HL-10009,2026-07-03,Drammen,Kenya Nyeri 250g,2,179.00,Café
+HL-10006,2026-07-24,Stavanger,House Espresso 1kg,8,429.00,Wholesale
+HL-10133,2026-07-26,Trondheim,Filter Papers (100),2,59.00,Webshop
+HL-10109,2026-07-05,Stavanger,filter papers (100),14,59.00,Wholesale
+HL-10005,2026-07-12,Stavanger,Filter Papers (100),2,59.00,Café
+HL-10142,2026-07-06,Drammen,colombia huila 250 g,2,149.00,Webshop
+HL-10129,2026-07-17,Bergen,House Espresso 1kg,10,429.00,Wholesale
+HL-10013,2026-07-27,Oslo,Decaf Brazil 250g,1,139.00,Webshop
+HL-10103,2026-07-21,Trondheim,Kenya Nyeri 250g,3,179.00,Webshop
+HL-10068,2026-07-06,Oslo,House Espresso 1kg ,1,429.00,Webshop
+HL-10127,2026-07-31,Drammen,Decaf Brazil 250g,2,139.00,Webshop
+HL-10132,2026-07-05,Oslo,Colombia Huila 250g,3,149.00,Webshop
+HL-10051,2026-07-09,Oslo,Decaf Brazil 250g,3,139.00,Webshop
+HL-10108,2026-07-30,Drammen,Kenya Nyeri 250g,1,179.00,Webshop
+HL-10060,2026-07-22,Trondheim,Filter Papers (100),3,59.00,Webshop
+HL-10011,2026-07-13,Trondheim,House Espresso 1kg,21,429.00,Wholesale
+HL-10088,2026-07-24,Oslo,Kenya Nyeri 250g,11,179.00,Wholesale
+HL-10033,2026-07-01,Oslo,Decaf Brazil 250g,2,139.00,Webshop
+HL-10097,2026-07-18,Stavanger,Kenya Nyeri 250g,3,179.00,Café
+HL-10042,2026-07-22,Oslo,Decaf Brazil 250g,1,139.00,Webshop
+HL-10130,2026-07-18,Stavanger,Kenya Nyeri 250g,1,179.00,Café
+HL-10086,2026-07-12,Oslo,Kenya Nyeri 250g,15,179.00,Wholesale
+HL-10090,2026-07-03,Stavanger,Decaf Brazil 250g,2,139.00,Webshop
+HL-10007,2026-07-15,Oslo,Ethiopia Yirgacheffe 250g,2,169.00,Webshop
+HL-10076,2026-07-12,Tromsø,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10082,2026-07-31,Drammen,Filter Papers (100),7,59.00,Wholesale
+HL-10078,2026-07-29,Oslo,colombia huila 250 g,2,149.00,Webshop
+HL-10124,2026-07-25,Trondheim,Filter Papers (100),23,59.00,Wholesale
+HL-10059,2026-07-15,Drammen,House Espresso 1kg,3,429.00,Webshop
+HL-10046,2026-07-27,Oslo,Ethiopia Yirgacheffe 250g,14,169.00,Wholesale
+HL-10029,2026-07-08,Tromsø,colombia huila 250 g,3,149.00,Webshop
+HL-10072,2026-07-11,Stavanger,Colombia Huila 250g,14,149.00,Wholesale
+HL-10019,2026-07-26,Tromsø,Colombia Huila 250g,20,149.00,Wholesale
+HL-10137,2026-07-22,Drammen,Decaf Brazil 250g,2,139.00,Webshop
+HL-10028,2026-07-22,Stavanger,Colombia  Huila 250g,14,149.00,Wholesale
+HL-10036,2026-07-31,Tromsø,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10125,2026-07-20,Stavanger,House Espresso 1kg,22,429.00,Wholesale
+HL-10091,2026-07-05,Bergen,Kenya Nyeri 250g,,179.00,Webshop
+HL-10070,2026-07-16,Drammen,Colombia  Huila 250g,3,149.00,Webshop
+HL-10118,2026-07-12,Stavanger,House Espresso 1kg,2,429.00,Webshop
+HL-10134,2026-07-06,Oslo,colombia huila 250 g,2,149.00,Webshop
+HL-10123,2026-07-28,Oslo,Decaf Brazil 250g,2,139.00,Webshop
+HL-10003,2026-07-01,Oslo,Decaf Brazil 250g,1,139.00,Café
+HL-10102,2026-07-09,Tromsø,Kenya Nyeri 250g,2,179.00,Webshop
+HL-10094,2026-07-22,Tromsø,Ethiopia Yirgacheffe 250g,2,169.00,Webshop
+HL-10074,2026-07-30,Drammen,Ethiopia Yirgacheffe 250g,10,169.00,Wholesale
+HL-10069,2026-07-13,Trondheim,Filter Papers (100),23,59.00,Wholesale
+HL-10038,2026-07-08,Oslo,House Espresso 1kg,3,429.00,Café
+HL-10141,2026-07-27,Oslo,Ethiopia Yirgacheffe 250g,1,169.00,Café
+HL-10008,2026-07-01,Stavanger,Filter Papers (100),15,59.00,Wholesale
+HL-10110,2026-07-27,Tromsø,Decaf Brazil 250g,19,139.00,Wholesale
+HL-10049,2026-07-26,Bergen,Kenya Nyeri 250g,24,179.00,Wholesale
+HL-10111,2026-07-21,Oslo,House Espresso 1kg,1,429.00,Webshop
+HL-10053,2026-07-21,Oslo,filter papers (100),3,59.00,Webshop
+HL-10045,2026-07-16,Tromsø,House espresso 1 kg,3,429.00,Webshop
+HL-10030,2026-07-29,Trondheim,Decaf Brazil 250g,3,139.00,Webshop
