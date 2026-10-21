@@ -119,6 +119,12 @@ def write_report(clean, issues, files, path, title="Sales report"):
     chart.y_axis.title = "kr"
     chart.y_axis.numFmt = "#,##0"
     chart.legend = None
+    # openpyxl 3.1 leaves the axes out unless told otherwise, and Excel then hides them.
+    chart.x_axis.delete = False
+    chart.y_axis.delete = False
+    # Keep the titles beside the plot instead of drawn over the gridlines and labels.
+    chart.title.overlay = False
+    chart.y_axis.title.overlay = False
     chart.height, chart.width = 7.5, 15
     chart.add_data(Reference(ws, min_col=4, min_row=12, max_row=month_end), titles_from_data=True)
     chart.set_categories(Reference(ws, min_col=1, min_row=13, max_row=month_end))

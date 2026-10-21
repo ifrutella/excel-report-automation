@@ -39,8 +39,10 @@ quantities, an impossible date (31 February) and a price written as `n/a`.
 
 Example output: [`examples/sales_report.xlsx`](examples/sales_report.xlsx)
 
+![Summary sheet of the example report: totals, revenue by month with a chart, top 5 products](examples/summary.png)
+
 ```
-> python -m salesreport data/raw -o examples/sales_report.xlsx
+> python -m salesreport data/raw -o examples/sales_report.xlsx --title "Sales report Q3 2026 (demo data)"
 Read 446 rows from 3 files: orders_september_2026.xlsx, regnskap_ordre_2026-08.csv, webshop_orders_2026-07.csv
 Used 417 rows, set aside 29 (reasons are on the Issues sheet)
 Revenue 380 161 kr from 417 orders

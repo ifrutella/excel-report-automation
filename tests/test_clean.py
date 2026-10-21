@@ -1,3 +1,5 @@
+import re
+import zipfile
 from datetime import date, datetime
 from pathlib import Path
 
@@ -102,6 +104,9 @@ def test_sample_data_end_to_end(tmp_path):
     wb = load_workbook(out)
     assert wb.sheetnames == ["Summary", "By product", "By city", "By channel", "Data", "Issues"]
     assert wb["Summary"]["B4"].value == pytest.approx(data["revenue"].sum())
+    # Both chart axes must be written as visible, or Excel shows no month names or amounts.
+    chart_xml = zipfile.ZipFile(out).read("xl/charts/chart1.xml").decode()
+    assert len(re.findall(r'<(?:c:)?delete val="0"', chart_xml)) == 2
 
 
 def test_missing_folder_content_gives_clear_error(tmp_path, capsys):
